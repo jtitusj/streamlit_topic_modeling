@@ -2,3 +2,9 @@ streamlit
 numpy
 pandas
 openpyxl
+nltk
+advertools
+sklearn
+plotly
+gensim
+textblob
